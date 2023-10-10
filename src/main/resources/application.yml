@@ -1,0 +1,10 @@
+myapp:
+  message: War inSide Value
+
+server:
+  port: 8084
+
+# database
+spring:
+  thymeleaf:
+    cache : false
